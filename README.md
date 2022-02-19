@@ -1,2 +1,2 @@
-# Fine-Dining
+# fine-dining
 Design, made in Figma
